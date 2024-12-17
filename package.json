@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-seeder",
+  "version": "1.0.0",
+  "description": "CLI tool for seeding MongoDB with auction data",
+  "main": "seeder.js",
+  "scripts": {
+    "seed": "node seeder.js seed",
+    "clear": "node seeder.js clear",
+    "list": "node seeder.js list"
+  },
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "commander": "^11.1.0"
+  }
+}

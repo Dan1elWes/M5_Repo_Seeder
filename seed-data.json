@@ -1,0 +1,22 @@
+{
+    "auction_items": [
+        {
+            "title": "Vintage Watch Collection",
+            "description": "A collection of three rare vintage watches from the 1960s, all in working condition",
+            "start_price": 500.00,
+            "reserve_price": 1000.00
+        },
+        {
+            "title": "Gaming Console Bundle",
+            "description": "Latest gaming console with two controllers and three popular games",
+            "start_price": 300.00,
+            "reserve_price": 450.00
+        },
+        {
+            "title": "Antique Wooden Desk",
+            "description": "Victorian-era mahogany writing desk with original brass fittings",
+            "start_price": 800.00,
+            "reserve_price": 1200.00
+        }
+    ]
+}
